@@ -4,8 +4,6 @@ title: A Comprehension of Gender Roles
 date: 2020-04-17T05:05:59+00:00
 author: Venkatesh
 layout: post
-guid: http://thetablaster.rf.gd/?p=134
-permalink: /2020/04/17/a-comprehension-of-gender-roles/
 categories:
   - Uncategorized
 ---
