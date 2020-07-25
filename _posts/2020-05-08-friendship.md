@@ -4,8 +4,6 @@ title: Friendship
 date: 2020-05-08T04:30:51+00:00
 author: Venkatesh
 layout: post
-guid: http://thetablaster.rf.gd/?p=137
-permalink: /2020/05/08/friendship/
 categories:
   - Uncategorized
 tags:
